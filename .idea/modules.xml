@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/first_microservice.iml" filepath="$PROJECT_DIR$/.idea/first_microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-microservice-currency-conversion.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-microservice-currency-conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-microservice-eureka-naming-server.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-microservice-eureka-naming-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-microservice-forex-service.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-microservice-forex-service.iml" />
+    </modules>
+  </component>
+</project>
